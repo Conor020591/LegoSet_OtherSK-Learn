@@ -1,1 +1,1 @@
-# LegoSet_Ridge
+# LegoSet_RidgeRegression
